@@ -1,0 +1,32 @@
+"distance" : {
+"text" : "0.2 km",
+"value" : 196
+},
+"duration" : {
+"text" : "1 min",
+"value" : 41
+},
+"end_location" : {
+"lat" : 12.9035229,
+"lng" : 77.6487613
+},
+"html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLink Rd\u003c/b\u003e",
+"maneuver" : "turn-right",
+"polyline" : {
+"points" : "igwmA{b}xMENFb@Ll@Fd@Ht@@z@D~@?h@"
+},
+"start_location" : {
+"lat" : 12.9037274,
+"lng" : 77.65054099999999
+},
+"travel_mode" : "DRIVING"
+}
+
+{
+        step:1,
+        endLocation : {
+
+},
+        manuever : 'turn-right'
+
+}

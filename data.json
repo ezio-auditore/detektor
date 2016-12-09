@@ -1,0 +1,16 @@
+{ geocoded_waypoints:
+[ { geocoder_status: 'OK',
+  place_id: 'ChIJX1nNSqFsrjsRTR3VG2o_ffM',
+  types: [Object] },
+  { geocoder_status: 'OK',
+    place_id: 'ChIJs2cTE6dsrjsRxcM8Z00d77g',
+    types: [Object] } ],
+  routes:
+  [ { bounds: [Object],
+    copyrights: 'Map data c2016 Google',
+    legs: [Object],
+    overview_polyline: [Object],
+    summary: 'Service Rd and Chikkathogur Main Rd',
+    warnings: [],
+    waypoint_order: [] } ],
+  status: 'OK' }
